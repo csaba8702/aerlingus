@@ -1,0 +1,23 @@
+{
+  "name": "airlingus",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "dotenv-json": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "mysql": "^2.18.1",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
